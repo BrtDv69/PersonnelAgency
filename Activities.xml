@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<ROOT>
+	<RECORD>
+		<ID>1</ID>
+		<NAME>АГЕНТЫ, ТЕЛЕМАРКЕТИНГ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>2</ID>
+		<NAME>БАНКОВСКОЕ ДЕЛО</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>66</ID>
+		<NAME>ИНВЕСТИЦИОННАЯ ДЕЯТЕЛЬНОСТЬ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>54</ID>
+		<NAME>ФИНАНСЫ, БУХГАЛТЕРИЯ, АУДИТ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>57</ID>
+		<NAME>АГЕНТЫ, ТЕЛЕМАРКЕТИНГ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>58</ID>
+		<NAME>БАНКОВСКОЕ ДЕЛО</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>67</ID>
+		<NAME>ИНТЕРНЕТ-ТЕХНОЛОГИИ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>68</ID>
+		<NAME>ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>69</ID>
+		<NAME>КАЧЕСТВО</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>59</ID>
+		<NAME>БЕЗ ОПЫТА РАБОТЫ, СТУДЕНТЫ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>60</ID>
+		<NAME>ВНЕШНЕЭКОНОМИЧЕСКАЯ ДЕЯТЕЛЬНОСТЬ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>61</ID>
+		<NAME>ГОСУДАРСТВЕННАЯ СЛУЖБА</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>62</ID>
+		<NAME>ДИСТАНЦИОННАЯ РАБОТА, РАБОТА НА ДОМУ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>63</ID>
+		<NAME>ДРУГОЕ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>64</ID>
+		<NAME>ЗАКУПКИ, СНАБЖЕНИЕ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>71</ID>
+		<NAME>ЛОГИСТИКА, ПЕРЕВОЗКИ, ТРАНСПОРТ, СКЛАД, ДОСТАВКА</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>72</ID>
+		<NAME>МАРКЕТИНГ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>73</ID>
+		<NAME>МЕДИЦИНА, ЗДРАВООХРАНЕНИЕ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>102</ID>
+		<NAME>ОБЩЕСТВЕННОЕ ПИТАНИЕ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>76</ID>
+		<NAME>НАУЧНАЯ ДЕЯТЕЛЬНОСТЬ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>77</ID>
+		<NAME>ОБЕСПЕЧЕНИЕ БЕЗОПАСНОСТИ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>78</ID>
+		<NAME>ОБОРУДОВАНИЕ: ПРОИЗВОДСТВО, ПРОДАЖА, НАЛАДКА, РЕМОНТ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>79</ID>
+		<NAME>ОБРАЗОВАНИЕ И ТРЕНИНГИ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>80</ID>
+		<NAME>ПЕРСОНАЛ ГОСТИНИЦ, РЕСТОРАНОВ, КАФЕ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>81</ID>
+		<NAME>ПЕРСОНАЛ НА ВРЕМЕННУЮ РАБОТУ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>82</ID>
+		<NAME>ПОИСК И ПОДБОР ПЕРСОНАЛА</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>83</ID>
+		<NAME>ПРОМЫШЛЕННОЕ ПРОИЗВОДСТВО - ИНЖЕНЕРНЫЙ СОСТАВ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>84</ID>
+		<NAME>ПРОМЫШЛЕННОЕ ПРОИЗВОДСТВО - РАБОЧИЕ СПЕЦИАЛЬНОСТИ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>85</ID>
+		<NAME>ПРОМЫШЛЕННОЕ ПРОИЗВОДСТВО - РУКОВОДИТЕЛИ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>86</ID>
+		<NAME>РЕКЛАМА</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>87</ID>
+		<NAME>СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>88</ID>
+		<NAME>СЕКРЕТАРИ, СОТРУДНИКИ ОФИСА</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>89</ID>
+		<NAME>СМИ, ИЗДАТЕЛЬСТВО, ПОЛИГРАФИЯ, ИНТЕРНЕТ-ИЗДАНИЯ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>90</ID>
+		<NAME>СТРАХОВАНИЕ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>91</ID>
+		<NAME>СТРОИТЕЛЬСТВО, ОПЕРАЦИИ С НЕДВИЖИМОСТЬЮ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>92</ID>
+		<NAME>ТЕЛЕКОММУНИКАЦИИ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>93</ID>
+		<NAME>ТОРГОВЛЯ БИРЖЕВЫМИ ТОВАРАМИ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>94</ID>
+		<NAME>ТОРГОВЛЯ ОБОРУДОВАНИЕМ, КОМПЛЕКТУЮЩИМИ, СЫРЬЕМ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>95</ID>
+		<NAME>ТОРГОВЛЯ ТОВАРАМИ МАССОВОГО СПРОСА/ПОТРЕБЛЕНИЯ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>96</ID>
+		<NAME>ТУРИЗМ И ОТДЫХ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>97</ID>
+		<NAME>УПРАВЛЕНИЕ ПЕРСОНАЛОМ, КАДРОВАЯ РАБОТА</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>98</ID>
+		<NAME>УПРАВЛЕНЧЕСКОЕ КОНСУЛЬТИРОВАНИЕ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>99</ID>
+		<NAME>УСЛУГИ ДЛЯ НАСЕЛЕНИЯ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>100</ID>
+		<NAME>ФАРМАЦИЯ (ПРОИЗВОДСТВО, ПРОДАЖИ)</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>101</ID>
+		<NAME>ЮРИДИЧЕСКАЯ ПОДДЕРЖКА</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>3</ID>
+		<NAME>ваппвапа</NAME>
+	</RECORD>
+</ROOT>

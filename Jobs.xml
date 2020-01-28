@@ -1,0 +1,2108 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<ROOT>
+	<RECORD>
+		<ID>-2</ID>
+		<ACTIVITY_ID>1</ACTIVITY_ID>
+		<NAME>Агент по продажам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>-3</ID>
+		<ACTIVITY_ID>1</ACTIVITY_ID>
+		<NAME>Коммивояжер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>-4</ID>
+		<ACTIVITY_ID>1</ACTIVITY_ID>
+		<NAME>Спец.телефонных продаж</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>-5</ID>
+		<ACTIVITY_ID>2</ACTIVITY_ID>
+		<NAME>Операционист</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>-6</ID>
+		<ACTIVITY_ID>2</ACTIVITY_ID>
+		<NAME>сотрудник обменного пункта</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>-7</ID>
+		<ACTIVITY_ID>2</ACTIVITY_ID>
+		<NAME>сотрудник ОПЕРУ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>1</ID>
+		<ACTIVITY_ID>1</ACTIVITY_ID>
+		<NAME>Кассир</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>2</ID>
+		<ACTIVITY_ID>1</ACTIVITY_ID>
+		<NAME>Операционист</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>3</ID>
+		<ACTIVITY_ID>2</ACTIVITY_ID>
+		<NAME>Прораб</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>4</ID>
+		<ACTIVITY_ID>2</ACTIVITY_ID>
+		<NAME>Каменщик</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>8</ID>
+		<ACTIVITY_ID>1</ACTIVITY_ID>
+		<NAME>ыпавп</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>10</ID>
+		<ACTIVITY_ID>3</ACTIVITY_ID>
+		<NAME>ппппппппппппппппппп</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>411</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>главный бухгалтер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>412</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>заместитель главного бухгалтера</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>413</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>бухгалтер широкого профиля</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>414</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>бухгалтер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>415</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>бухгалтер начального уровня</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>416</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>финансовый директор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>417</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>финансовый менеджер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>418</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>финансовый контролер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>419</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>кредитный контролер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>420</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>финансовый аналитик</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>421</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>кассир</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>422</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>валютный кассир</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>423</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>валютный контролер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>424</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>казначей</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>425</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>аудитор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>426</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>помощник аудитора</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>427</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>помощник бухгалтера</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>428</ID>
+		<ACTIVITY_ID>54</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>429</ID>
+		<ACTIVITY_ID>57</ACTIVITY_ID>
+		<NAME>Агент по продажам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>430</ID>
+		<ACTIVITY_ID>57</ACTIVITY_ID>
+		<NAME>Коммивояжер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>431</ID>
+		<ACTIVITY_ID>57</ACTIVITY_ID>
+		<NAME>Спец.телефонных продаж</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>432</ID>
+		<ACTIVITY_ID>57</ACTIVITY_ID>
+		<NAME>Другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>433</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>операционист</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>434</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>сотрудник обменного пункта</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>435</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>сотрудник ОПЕРУ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>436</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по валютному контролю</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>437</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по внутренним операциям</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>438</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>аналитик</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>439</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>аудитор банка</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>440</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>инкассатор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>441</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>казначей</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>442</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>кассир</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>443</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по денежным рынкам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>444</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по корпоративному финансированию</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>445</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по корреспондентским отношениям</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>446</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по кредиту</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>447</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по лизингу</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>448</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по налогообложению</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>449</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по пластиковым картам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>450</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по портфельным инвестициям</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>451</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по привлечению клиентов</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>452</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по продаже финансовых продуктов</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>453</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по проектному финансированию</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>454</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по прямым инвестициям</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>455</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по работе с акциями и ценными бумагами</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>456</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец.по работе с филиалами</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>457</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец. по расчетно-кассовому обслуживанию</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>458</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>спец. по торговому финансированию</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>459</ID>
+		<ACTIVITY_ID>58</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>460</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>мол.спец.в области информационных технологий</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>461</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>мол.спец.в области искусства</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>462</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>мол.спец.в области маркетинга и рекламы</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>463</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>мол.спец.в области медицины и фармацевтики</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>464</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>мол.спец.в области образования</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>465</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>мол.спец.в области производственных технологий</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>466</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>мол.спец.в области транспорта и логистики</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>467</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>мол.спец.в области туризма</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>468</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>мол.спец.в области управления персоналом</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>469</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>мол.спец.в области финансов</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>470</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>мол.спец.в области юриспруденции</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>471</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>мол.спец.в области строительства и архитектуры</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>472</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>другое</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>473</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>секретарь</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>474</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>оператор ПК</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>475</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME> интервьюер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>476</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>разнорабочий</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>477</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>стенлист на выставке</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>478</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>агент по недвижимости</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>479</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>продавец в ресторане быстрого обслуживания</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>480</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>посудомойщик</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>481</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>бармен</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>482</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>сотрудник автозаправки</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>483</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>уборщик офисных помещений</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>484</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>бармен</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>485</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>грузчик</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>486</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>страховой агент</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>487</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>диспетчер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>488</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>парковщик</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>489</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>почтальон</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>490</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>продавец газет</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>491</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>распространитель объявлений</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>492</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>продавец рекламных возможностей</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>493</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>официант</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>494</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>сотрудник торгового зала</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>495</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>курьер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>496</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>доставщик товаров</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>497</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>продавец-консультант</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>498</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>промо-девушка</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>499</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>телемаркетер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>500</ID>
+		<ACTIVITY_ID>59</ACTIVITY_ID>
+		<NAME>парикмахер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>502</ID>
+		<ACTIVITY_ID>60</ACTIVITY_ID>
+		<NAME>представитель по экспорту</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>503</ID>
+		<ACTIVITY_ID>60</ACTIVITY_ID>
+		<NAME>представитель по импорту</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>504</ID>
+		<ACTIVITY_ID>60</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>505</ID>
+		<ACTIVITY_ID>61</ACTIVITY_ID>
+		<NAME>военная служба</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>506</ID>
+		<ACTIVITY_ID>61</ACTIVITY_ID>
+		<NAME>гражданская служба</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>507</ID>
+		<ACTIVITY_ID>61</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>508</ID>
+		<ACTIVITY_ID>62</ACTIVITY_ID>
+		<NAME>диспетчер на домашнем телефоне</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>509</ID>
+		<ACTIVITY_ID>62</ACTIVITY_ID>
+		<NAME>оператор интернет-контента</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>510</ID>
+		<ACTIVITY_ID>62</ACTIVITY_ID>
+		<NAME>оператор по вводу данных</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>511</ID>
+		<ACTIVITY_ID>62</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>512</ID>
+		<ACTIVITY_ID>63</ACTIVITY_ID>
+		<NAME>работник без квалификации</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>513</ID>
+		<ACTIVITY_ID>63</ACTIVITY_ID>
+		<NAME>работник редкой специальности</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>514</ID>
+		<ACTIVITY_ID>63</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>515</ID>
+		<ACTIVITY_ID>64</ACTIVITY_ID>
+		<NAME>директор по снабжению</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>516</ID>
+		<ACTIVITY_ID>64</ACTIVITY_ID>
+		<NAME>менеджер по закупкам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>517</ID>
+		<ACTIVITY_ID>64</ACTIVITY_ID>
+		<NAME>представитель по закупкам товарной группы</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>518</ID>
+		<ACTIVITY_ID>64</ACTIVITY_ID>
+		<NAME>аналитик цен</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>519</ID>
+		<ACTIVITY_ID>64</ACTIVITY_ID>
+		<NAME>диспетчер по снабжению</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>520</ID>
+		<ACTIVITY_ID>64</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>522</ID>
+		<ACTIVITY_ID>66</ACTIVITY_ID>
+		<NAME>аналитик</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>523</ID>
+		<ACTIVITY_ID>66</ACTIVITY_ID>
+		<NAME>спец.по денежным рынкам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>524</ID>
+		<ACTIVITY_ID>66</ACTIVITY_ID>
+		<NAME>спец.по корпоративному финансированию</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>525</ID>
+		<ACTIVITY_ID>66</ACTIVITY_ID>
+		<NAME>спец.по внутренним операциям</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>526</ID>
+		<ACTIVITY_ID>66</ACTIVITY_ID>
+		<NAME>спец.по привлечению клиентов</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>527</ID>
+		<ACTIVITY_ID>66</ACTIVITY_ID>
+		<NAME>спец.по продаже финансовых продуктов</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>528</ID>
+		<ACTIVITY_ID>66</ACTIVITY_ID>
+		<NAME>по проектному финансированию</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>529</ID>
+		<ACTIVITY_ID>66</ACTIVITY_ID>
+		<NAME>спец, спец.по прямым инвестициям</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>530</ID>
+		<ACTIVITY_ID>66</ACTIVITY_ID>
+		<NAME>спец.по работе с акциями и ценными бумагами</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>531</ID>
+		<ACTIVITY_ID>66</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>533</ID>
+		<ACTIVITY_ID>67</ACTIVITY_ID>
+		<NAME>руководитель Интернет-проекта</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>534</ID>
+		<ACTIVITY_ID>67</ACTIVITY_ID>
+		<NAME>Web-программист</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>535</ID>
+		<ACTIVITY_ID>67</ACTIVITY_ID>
+		<NAME>Web-мастер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>536</ID>
+		<ACTIVITY_ID>67</ACTIVITY_ID>
+		<NAME>спец. по электронной коммерции</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>537</ID>
+		<ACTIVITY_ID>67</ACTIVITY_ID>
+		<NAME>Web-дизайнер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>538</ID>
+		<ACTIVITY_ID>67</ACTIVITY_ID>
+		<NAME>Flash-дизайнер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>539</ID>
+		<ACTIVITY_ID>67</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>540</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>Руководитель IT-компании</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>541</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>IT-Директор в компании</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>542</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>IT-менеджер в компании</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>543</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>Консультант по внедрению ERP-систем</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>544</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>специалист по GIS</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>545</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>специалист по информационной безопасности</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>546</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>программист</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>547</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>менеджер проектов</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>548</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>системный администратор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>549</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>администратор баз данных</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>550</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>системный архитектор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>551</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>менеджер по продажам IT-решений</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>552</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>спец. по продажам IT-решений</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>553</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>менеджер по сервису IT-систем</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>554</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>инженер по сервису IT-систем</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>555</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>аналитик</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>556</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>технический писатель</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>557</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>верстальщик</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>558</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>559</ID>
+		<ACTIVITY_ID>68</ACTIVITY_ID>
+		<NAME>техник</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>560</ID>
+		<ACTIVITY_ID>69</ACTIVITY_ID>
+		<NAME>директор по качеству</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>561</ID>
+		<ACTIVITY_ID>69</ACTIVITY_ID>
+		<NAME>менеджер по внедрению СМК</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>562</ID>
+		<ACTIVITY_ID>69</ACTIVITY_ID>
+		<NAME>специалист по качеству</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>563</ID>
+		<ACTIVITY_ID>69</ACTIVITY_ID>
+		<NAME>инженер по качеству</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>564</ID>
+		<ACTIVITY_ID>69</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>565</ID>
+		<ACTIVITY_ID>71</ACTIVITY_ID>
+		<NAME>Директор по логистике</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>566</ID>
+		<ACTIVITY_ID>71</ACTIVITY_ID>
+		<NAME>логистик (спец.отдела логистики)</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>567</ID>
+		<ACTIVITY_ID>71</ACTIVITY_ID>
+		<NAME>менеджер по таможенному оформлению</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>568</ID>
+		<ACTIVITY_ID>71</ACTIVITY_ID>
+		<NAME>декларант (таможенный брокер)</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>569</ID>
+		<ACTIVITY_ID>71</ACTIVITY_ID>
+		<NAME>начальник склада</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>570</ID>
+		<ACTIVITY_ID>71</ACTIVITY_ID>
+		<NAME>работник склада</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>571</ID>
+		<ACTIVITY_ID>71</ACTIVITY_ID>
+		<NAME>диспетчер по доставке</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>572</ID>
+		<ACTIVITY_ID>71</ACTIVITY_ID>
+		<NAME>водитель(перевозка грузов)</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>573</ID>
+		<ACTIVITY_ID>71</ACTIVITY_ID>
+		<NAME>водитель пассажирского автобуса</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>574</ID>
+		<ACTIVITY_ID>71</ACTIVITY_ID>
+		<NAME>личный водитель</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>575</ID>
+		<ACTIVITY_ID>71</ACTIVITY_ID>
+		<NAME>экспедитор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>576</ID>
+		<ACTIVITY_ID>71</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>577</ID>
+		<ACTIVITY_ID>72</ACTIVITY_ID>
+		<NAME>директор по маркетингу</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>578</ID>
+		<ACTIVITY_ID>72</ACTIVITY_ID>
+		<NAME>Бренд-менеджер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>579</ID>
+		<ACTIVITY_ID>72</ACTIVITY_ID>
+		<NAME>менеджер продукта</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>580</ID>
+		<ACTIVITY_ID>72</ACTIVITY_ID>
+		<NAME>мерчендайзер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>581</ID>
+		<ACTIVITY_ID>72</ACTIVITY_ID>
+		<NAME>менеджер маркетинг-проекта</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>582</ID>
+		<ACTIVITY_ID>72</ACTIVITY_ID>
+		<NAME>менеджер по торговому маркетингу</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>583</ID>
+		<ACTIVITY_ID>72</ACTIVITY_ID>
+		<NAME>менеджер по работе с клиентами</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>584</ID>
+		<ACTIVITY_ID>72</ACTIVITY_ID>
+		<NAME>начальник отдела маркетинга</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>585</ID>
+		<ACTIVITY_ID>72</ACTIVITY_ID>
+		<NAME>маркетолог начального уровня</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>586</ID>
+		<ACTIVITY_ID>72</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>587</ID>
+		<ACTIVITY_ID>73</ACTIVITY_ID>
+		<NAME>ветеринар</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>588</ID>
+		<ACTIVITY_ID>73</ACTIVITY_ID>
+		<NAME>лаборант</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>589</ID>
+		<ACTIVITY_ID>73</ACTIVITY_ID>
+		<NAME>лечащий врач</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>590</ID>
+		<ACTIVITY_ID>73</ACTIVITY_ID>
+		<NAME>медсестра</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>591</ID>
+		<ACTIVITY_ID>73</ACTIVITY_ID>
+		<NAME>врач</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>592</ID>
+		<ACTIVITY_ID>73</ACTIVITY_ID>
+		<NAME>главврач</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>593</ID>
+		<ACTIVITY_ID>73</ACTIVITY_ID>
+		<NAME>зав.клиникой</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>594</ID>
+		<ACTIVITY_ID>73</ACTIVITY_ID>
+		<NAME>зав. отделением</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>595</ID>
+		<ACTIVITY_ID>73</ACTIVITY_ID>
+		<NAME>ортопед</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>596</ID>
+		<ACTIVITY_ID>73</ACTIVITY_ID>
+		<NAME>ассистент врача</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>597</ID>
+		<ACTIVITY_ID>73</ACTIVITY_ID>
+		<NAME>санитар</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>598</ID>
+		<ACTIVITY_ID>73</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>599</ID>
+		<ACTIVITY_ID>73</ACTIVITY_ID>
+		<NAME>узкий специалист</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>610</ID>
+		<ACTIVITY_ID>76</ACTIVITY_ID>
+		<NAME>научный сотрудник</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>611</ID>
+		<ACTIVITY_ID>76</ACTIVITY_ID>
+		<NAME>лаборант</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>612</ID>
+		<ACTIVITY_ID>76</ACTIVITY_ID>
+		<NAME>техник</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>613</ID>
+		<ACTIVITY_ID>76</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>614</ID>
+		<ACTIVITY_ID>77</ACTIVITY_ID>
+		<NAME>руководитель СБ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>615</ID>
+		<ACTIVITY_ID>77</ACTIVITY_ID>
+		<NAME>спец.по экономической безопасности</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>616</ID>
+		<ACTIVITY_ID>77</ACTIVITY_ID>
+		<NAME>спец.по информационной безопасности</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>617</ID>
+		<ACTIVITY_ID>77</ACTIVITY_ID>
+		<NAME>спец.по личной безопасности</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>618</ID>
+		<ACTIVITY_ID>77</ACTIVITY_ID>
+		<NAME>охранник</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>619</ID>
+		<ACTIVITY_ID>77</ACTIVITY_ID>
+		<NAME>оперативник</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>620</ID>
+		<ACTIVITY_ID>77</ACTIVITY_ID>
+		<NAME>инкассатор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>621</ID>
+		<ACTIVITY_ID>77</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>622</ID>
+		<ACTIVITY_ID>78</ACTIVITY_ID>
+		<NAME>руководитель компании - поставщика оборудования</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>623</ID>
+		<ACTIVITY_ID>78</ACTIVITY_ID>
+		<NAME>директор по продажам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>624</ID>
+		<ACTIVITY_ID>78</ACTIVITY_ID>
+		<NAME>менеджер по продажам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>625</ID>
+		<ACTIVITY_ID>78</ACTIVITY_ID>
+		<NAME>директор по сервисному обслуживанию</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>626</ID>
+		<ACTIVITY_ID>78</ACTIVITY_ID>
+		<NAME>инженер по сервисному обслуживанию</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>627</ID>
+		<ACTIVITY_ID>78</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>628</ID>
+		<ACTIVITY_ID>79</ACTIVITY_ID>
+		<NAME>тренер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>629</ID>
+		<ACTIVITY_ID>79</ACTIVITY_ID>
+		<NAME>руководитель тренинговой компании</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>630</ID>
+		<ACTIVITY_ID>79</ACTIVITY_ID>
+		<NAME>декан</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>631</ID>
+		<ACTIVITY_ID>79</ACTIVITY_ID>
+		<NAME>заведующий кафедрой</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>632</ID>
+		<ACTIVITY_ID>79</ACTIVITY_ID>
+		<NAME>преподаватель</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>633</ID>
+		<ACTIVITY_ID>79</ACTIVITY_ID>
+		<NAME>учитель</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>635</ID>
+		<ACTIVITY_ID>79</ACTIVITY_ID>
+		<NAME>офицер-воспитатель</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>636</ID>
+		<ACTIVITY_ID>79</ACTIVITY_ID>
+		<NAME>воспитатель</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>637</ID>
+		<ACTIVITY_ID>79</ACTIVITY_ID>
+		<NAME>няня</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>638</ID>
+		<ACTIVITY_ID>79</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>639</ID>
+		<ACTIVITY_ID>80</ACTIVITY_ID>
+		<NAME>Менеджер гостиничного сервиса</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>640</ID>
+		<ACTIVITY_ID>80</ACTIVITY_ID>
+		<NAME>сотрудник гостиничного сервиса</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>641</ID>
+		<ACTIVITY_ID>80</ACTIVITY_ID>
+		<NAME>управляющий гостиницей</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>642</ID>
+		<ACTIVITY_ID>80</ACTIVITY_ID>
+		<NAME>шеф-повар</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>643</ID>
+		<ACTIVITY_ID>80</ACTIVITY_ID>
+		<NAME>су-шеф</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>644</ID>
+		<ACTIVITY_ID>80</ACTIVITY_ID>
+		<NAME>повар</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>645</ID>
+		<ACTIVITY_ID>80</ACTIVITY_ID>
+		<NAME>мертодотель</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>646</ID>
+		<ACTIVITY_ID>80</ACTIVITY_ID>
+		<NAME>официант</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>647</ID>
+		<ACTIVITY_ID>80</ACTIVITY_ID>
+		<NAME>распорядитель зала</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>648</ID>
+		<ACTIVITY_ID>80</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>649</ID>
+		<ACTIVITY_ID>81</ACTIVITY_ID>
+		<NAME>руководитель проекта</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>650</ID>
+		<ACTIVITY_ID>81</ACTIVITY_ID>
+		<NAME>консультант на проект</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>651</ID>
+		<ACTIVITY_ID>81</ACTIVITY_ID>
+		<NAME>сотрудник на временную работу</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>652</ID>
+		<ACTIVITY_ID>81</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>653</ID>
+		<ACTIVITY_ID>82</ACTIVITY_ID>
+		<NAME>менеджер по подбору персонала</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>654</ID>
+		<ACTIVITY_ID>82</ACTIVITY_ID>
+		<NAME>консультант по топ-позициям</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>655</ID>
+		<ACTIVITY_ID>82</ACTIVITY_ID>
+		<NAME>менеджер по развитию бизнеса</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>656</ID>
+		<ACTIVITY_ID>82</ACTIVITY_ID>
+		<NAME>психолог</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>657</ID>
+		<ACTIVITY_ID>82</ACTIVITY_ID>
+		<NAME>оператор базы данных</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>658</ID>
+		<ACTIVITY_ID>82</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>659</ID>
+		<ACTIVITY_ID>83</ACTIVITY_ID>
+		<NAME>инженер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>660</ID>
+		<ACTIVITY_ID>83</ACTIVITY_ID>
+		<NAME>технолог</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>661</ID>
+		<ACTIVITY_ID>83</ACTIVITY_ID>
+		<NAME>конструктор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>662</ID>
+		<ACTIVITY_ID>83</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>663</ID>
+		<ACTIVITY_ID>84</ACTIVITY_ID>
+		<NAME>наладчик оборудования</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>664</ID>
+		<ACTIVITY_ID>84</ACTIVITY_ID>
+		<NAME>рабочий высокой квалификации</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>665</ID>
+		<ACTIVITY_ID>84</ACTIVITY_ID>
+		<NAME>оператор-наладчик станков ЧПУ</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>666</ID>
+		<ACTIVITY_ID>84</ACTIVITY_ID>
+		<NAME>разнорабочий</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>667</ID>
+		<ACTIVITY_ID>84</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>668</ID>
+		<ACTIVITY_ID>85</ACTIVITY_ID>
+		<NAME>директор завода</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>669</ID>
+		<ACTIVITY_ID>85</ACTIVITY_ID>
+		<NAME>главный инженер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>670</ID>
+		<ACTIVITY_ID>85</ACTIVITY_ID>
+		<NAME>главный технолог</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>671</ID>
+		<ACTIVITY_ID>85</ACTIVITY_ID>
+		<NAME>начальник цеха</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>672</ID>
+		<ACTIVITY_ID>85</ACTIVITY_ID>
+		<NAME>начальник смены</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>673</ID>
+		<ACTIVITY_ID>85</ACTIVITY_ID>
+		<NAME>мастер участка</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>674</ID>
+		<ACTIVITY_ID>85</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>675</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>продьюссер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>676</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>исследователь рынка</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>677</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>спец.по планированию рекламных кампаний</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>678</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>спец.по закупки рекламных ресурсов</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>679</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>дизайнер, копирайтер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>680</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>менеджер по развитию бизнеса</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>681</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>арт-директор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>682</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>менеджер по продаже рекламный возможностей</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>683</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>менеджер по крупным клиентам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>684</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>фотограф</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>685</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>координатор проектов</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>686</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>рекламный агент</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>687</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>организатор выставок</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>688</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>директор рекламного агентства</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>689</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>промоутер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>690</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>менеджер по производству рекламы</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>691</ID>
+		<ACTIVITY_ID>86</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>692</ID>
+		<ACTIVITY_ID>87</ACTIVITY_ID>
+		<NAME>директор по связям с общественностью</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>693</ID>
+		<ACTIVITY_ID>87</ACTIVITY_ID>
+		<NAME>спец.по связям с общественностью</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>694</ID>
+		<ACTIVITY_ID>87</ACTIVITY_ID>
+		<NAME>представитель по связям с общественностью</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>695</ID>
+		<ACTIVITY_ID>87</ACTIVITY_ID>
+		<NAME>представитель по связям с правительством</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>696</ID>
+		<ACTIVITY_ID>87</ACTIVITY_ID>
+		<NAME>лоббист</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>697</ID>
+		<ACTIVITY_ID>87</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>698</ID>
+		<ACTIVITY_ID>88</ACTIVITY_ID>
+		<NAME>секретарь</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>699</ID>
+		<ACTIVITY_ID>88</ACTIVITY_ID>
+		<NAME>персональный ассистент</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>700</ID>
+		<ACTIVITY_ID>88</ACTIVITY_ID>
+		<NAME>оператор по вводу данных</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>701</ID>
+		<ACTIVITY_ID>88</ACTIVITY_ID>
+		<NAME>офис-менеджер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>702</ID>
+		<ACTIVITY_ID>88</ACTIVITY_ID>
+		<NAME>администратор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>703</ID>
+		<ACTIVITY_ID>88</ACTIVITY_ID>
+		<NAME>менеджер по работе с клиентами</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>704</ID>
+		<ACTIVITY_ID>88</ACTIVITY_ID>
+		<NAME>завхоз</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>705</ID>
+		<ACTIVITY_ID>88</ACTIVITY_ID>
+		<NAME>курьер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>706</ID>
+		<ACTIVITY_ID>88</ACTIVITY_ID>
+		<NAME>водитель офисной автомашины</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>707</ID>
+		<ACTIVITY_ID>88</ACTIVITY_ID>
+		<NAME>синхронный перевод</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>708</ID>
+		<ACTIVITY_ID>88</ACTIVITY_ID>
+		<NAME>устный перевод</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>709</ID>
+		<ACTIVITY_ID>88</ACTIVITY_ID>
+		<NAME>письменный перевод</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>710</ID>
+		<ACTIVITY_ID>88</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>711</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>главный редактор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>712</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>журналист</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>713</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>корреспондент</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>714</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>редактор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>715</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>менеджер по распространению</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>716</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>корректор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>717</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>специалист по верстке</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>718</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>ведущий передач</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>719</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>звукорежиссер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>720</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>диктор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>721</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>режиссер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>722</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>контент-редактор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>723</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>оператор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>724</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>модератор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>725</ID>
+		<ACTIVITY_ID>89</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>726</ID>
+		<ACTIVITY_ID>90</ACTIVITY_ID>
+		<NAME>руководитель отдела страхования</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>727</ID>
+		<ACTIVITY_ID>90</ACTIVITY_ID>
+		<NAME>страховой агент</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>728</ID>
+		<ACTIVITY_ID>90</ACTIVITY_ID>
+		<NAME>эксперт-оценщик</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>729</ID>
+		<ACTIVITY_ID>90</ACTIVITY_ID>
+		<NAME>актуарий</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>730</ID>
+		<ACTIVITY_ID>90</ACTIVITY_ID>
+		<NAME>андеррайтер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>731</ID>
+		<ACTIVITY_ID>90</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>732</ID>
+		<ACTIVITY_ID>91</ACTIVITY_ID>
+		<NAME>архитектор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>733</ID>
+		<ACTIVITY_ID>91</ACTIVITY_ID>
+		<NAME>инженер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>734</ID>
+		<ACTIVITY_ID>91</ACTIVITY_ID>
+		<NAME>начальник участка</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>735</ID>
+		<ACTIVITY_ID>91</ACTIVITY_ID>
+		<NAME>прораб</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>736</ID>
+		<ACTIVITY_ID>91</ACTIVITY_ID>
+		<NAME>сметчик</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>737</ID>
+		<ACTIVITY_ID>91</ACTIVITY_ID>
+		<NAME>строительный рабочий</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>738</ID>
+		<ACTIVITY_ID>91</ACTIVITY_ID>
+		<NAME>риэлтер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>739</ID>
+		<ACTIVITY_ID>91</ACTIVITY_ID>
+		<NAME>агент по недвижимости</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>740</ID>
+		<ACTIVITY_ID>91</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>741</ID>
+		<ACTIVITY_ID>92</ACTIVITY_ID>
+		<NAME>руководитель телеком.компании</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>742</ID>
+		<ACTIVITY_ID>92</ACTIVITY_ID>
+		<NAME>спец.по передаче данных и доступу в Интернет</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>743</ID>
+		<ACTIVITY_ID>92</ACTIVITY_ID>
+		<NAME>спец.по сотовым (безпроводным) технологиям</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>744</ID>
+		<ACTIVITY_ID>92</ACTIVITY_ID>
+		<NAME>спец.по управлению проектами</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>745</ID>
+		<ACTIVITY_ID>92</ACTIVITY_ID>
+		<NAME>менеджер проектов</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>746</ID>
+		<ACTIVITY_ID>92</ACTIVITY_ID>
+		<NAME>менеджер по продажам телеком.решений</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>747</ID>
+		<ACTIVITY_ID>92</ACTIVITY_ID>
+		<NAME>спец. по продажам телеком.решений</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>748</ID>
+		<ACTIVITY_ID>92</ACTIVITY_ID>
+		<NAME>менеджер по продажам сотовых решений</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>749</ID>
+		<ACTIVITY_ID>92</ACTIVITY_ID>
+		<NAME>менеджер по сервису телеком.систем</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>750</ID>
+		<ACTIVITY_ID>92</ACTIVITY_ID>
+		<NAME>инженер по сервису телеком.систем</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>751</ID>
+		<ACTIVITY_ID>92</ACTIVITY_ID>
+		<NAME>спец.отдела по работе с клиентами</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>752</ID>
+		<ACTIVITY_ID>92</ACTIVITY_ID>
+		<NAME>оператор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>753</ID>
+		<ACTIVITY_ID>92</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>754</ID>
+		<ACTIVITY_ID>93</ACTIVITY_ID>
+		<NAME>трейдер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>755</ID>
+		<ACTIVITY_ID>93</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>756</ID>
+		<ACTIVITY_ID>94</ACTIVITY_ID>
+		<NAME>руководитель компании</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>757</ID>
+		<ACTIVITY_ID>94</ACTIVITY_ID>
+		<NAME>директор по продажам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>758</ID>
+		<ACTIVITY_ID>94</ACTIVITY_ID>
+		<NAME>менеджер по продажам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>759</ID>
+		<ACTIVITY_ID>94</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>760</ID>
+		<ACTIVITY_ID>95</ACTIVITY_ID>
+		<NAME>директор по продажам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>761</ID>
+		<ACTIVITY_ID>95</ACTIVITY_ID>
+		<NAME>начальник отдела продаж</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>762</ID>
+		<ACTIVITY_ID>95</ACTIVITY_ID>
+		<NAME>менеджер по продажам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>763</ID>
+		<ACTIVITY_ID>95</ACTIVITY_ID>
+		<NAME>региональный представитель по продажам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>764</ID>
+		<ACTIVITY_ID>95</ACTIVITY_ID>
+		<NAME>торговый представитель</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>765</ID>
+		<ACTIVITY_ID>95</ACTIVITY_ID>
+		<NAME>спец.по оптовым продажам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>766</ID>
+		<ACTIVITY_ID>95</ACTIVITY_ID>
+		<NAME>спец.по розничным продажам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>767</ID>
+		<ACTIVITY_ID>95</ACTIVITY_ID>
+		<NAME>менеджер по работе с корпоративными клиентами</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>768</ID>
+		<ACTIVITY_ID>95</ACTIVITY_ID>
+		<NAME>супервайзер</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>769</ID>
+		<ACTIVITY_ID>95</ACTIVITY_ID>
+		<NAME>продавец-консультант</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>770</ID>
+		<ACTIVITY_ID>95</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>771</ID>
+		<ACTIVITY_ID>96</ACTIVITY_ID>
+		<NAME>директор тур-агентства</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>772</ID>
+		<ACTIVITY_ID>96</ACTIVITY_ID>
+		<NAME>менеджер по туризму</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>773</ID>
+		<ACTIVITY_ID>96</ACTIVITY_ID>
+		<NAME>тур-агент</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>774</ID>
+		<ACTIVITY_ID>96</ACTIVITY_ID>
+		<NAME>экскурсовод</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>775</ID>
+		<ACTIVITY_ID>96</ACTIVITY_ID>
+		<NAME>гид</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>776</ID>
+		<ACTIVITY_ID>96</ACTIVITY_ID>
+		<NAME>агент по бронированию билетов</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>777</ID>
+		<ACTIVITY_ID>96</ACTIVITY_ID>
+		<NAME>менеджер по работе с клиентами</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>778</ID>
+		<ACTIVITY_ID>96</ACTIVITY_ID>
+		<NAME>менеджер чартерных перевозок</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>779</ID>
+		<ACTIVITY_ID>96</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>780</ID>
+		<ACTIVITY_ID>97</ACTIVITY_ID>
+		<NAME>директор по персоналу</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>781</ID>
+		<ACTIVITY_ID>97</ACTIVITY_ID>
+		<NAME>менеджер по управлению персоналом</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>782</ID>
+		<ACTIVITY_ID>97</ACTIVITY_ID>
+		<NAME>спец.по подбору кадров</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>783</ID>
+		<ACTIVITY_ID>97</ACTIVITY_ID>
+		<NAME>менеджер по тренингу и развитию персонала</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>784</ID>
+		<ACTIVITY_ID>97</ACTIVITY_ID>
+		<NAME>спец.по формам компенсации за труд</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>785</ID>
+		<ACTIVITY_ID>97</ACTIVITY_ID>
+		<NAME>психолог</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>786</ID>
+		<ACTIVITY_ID>97</ACTIVITY_ID>
+		<NAME>руководитель отдела кадров</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>787</ID>
+		<ACTIVITY_ID>97</ACTIVITY_ID>
+		<NAME>инспектор по кадрам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>788</ID>
+		<ACTIVITY_ID>97</ACTIVITY_ID>
+		<NAME>спец.по управлению персоналом начального уровня</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>789</ID>
+		<ACTIVITY_ID>97</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>790</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>спец.по управлению проектами</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>791</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>консультант по реинжинирингу бизнес-процессов</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>792</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>исследователь рынка</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>793</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>организационный консультант</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>794</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>консультант по стратегиям</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>795</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>спец.по управлению практикой</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>796</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>консультант по PR-стратегии</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>797</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>консультант по IT-стратегии</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>798</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>консультант по управлению знаниями</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>799</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>консультант по корпоративным финансам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>800</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>консультант начального уровня</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>801</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>партнер (совладелец)</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>802</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>руководитель консалтинговой практики</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>803</ID>
+		<ACTIVITY_ID>98</ACTIVITY_ID>
+		<NAME>другая вакансия</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>804</ID>
+		<ACTIVITY_ID>99</ACTIVITY_ID>
+		<NAME>спец.по ремонту бытовой техники</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>805</ID>
+		<ACTIVITY_ID>99</ACTIVITY_ID>
+		<NAME>спец.по ремонту автомобилей</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>806</ID>
+		<ACTIVITY_ID>99</ACTIVITY_ID>
+		<NAME>спец. по ремонту квартир</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>807</ID>
+		<ACTIVITY_ID>99</ACTIVITY_ID>
+		<NAME>массажист</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>808</ID>
+		<ACTIVITY_ID>99</ACTIVITY_ID>
+		<NAME>домработница</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>809</ID>
+		<ACTIVITY_ID>99</ACTIVITY_ID>
+		<NAME>горничная</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>810</ID>
+		<ACTIVITY_ID>99</ACTIVITY_ID>
+		<NAME>таксист</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>811</ID>
+		<ACTIVITY_ID>99</ACTIVITY_ID>
+		<NAME>визажист</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>812</ID>
+		<ACTIVITY_ID>99</ACTIVITY_ID>
+		<NAME>косметолог</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>813</ID>
+		<ACTIVITY_ID>99</ACTIVITY_ID>
+		<NAME>консьерж</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>814</ID>
+		<ACTIVITY_ID>99</ACTIVITY_ID>
+		<NAME>другая вакансия</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>815</ID>
+		<ACTIVITY_ID>100</ACTIVITY_ID>
+		<NAME>провизор</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>816</ID>
+		<ACTIVITY_ID>100</ACTIVITY_ID>
+		<NAME>медицинский представитель</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>817</ID>
+		<ACTIVITY_ID>100</ACTIVITY_ID>
+		<NAME>спец.по продвижению препаратов</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>818</ID>
+		<ACTIVITY_ID>100</ACTIVITY_ID>
+		<NAME>спец.по продвижению мед.оборудования</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>819</ID>
+		<ACTIVITY_ID>100</ACTIVITY_ID>
+		<NAME>спец.по сертификации</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>820</ID>
+		<ACTIVITY_ID>100</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>821</ID>
+		<ACTIVITY_ID>100</ACTIVITY_ID>
+		<NAME>менеджер по продажам</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>822</ID>
+		<ACTIVITY_ID>101</ACTIVITY_ID>
+		<NAME>адвокат</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>823</ID>
+		<ACTIVITY_ID>101</ACTIVITY_ID>
+		<NAME>юрист</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>824</ID>
+		<ACTIVITY_ID>101</ACTIVITY_ID>
+		<NAME>юрисконсульт компании</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>825</ID>
+		<ACTIVITY_ID>101</ACTIVITY_ID>
+		<NAME>нотариус</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>826</ID>
+		<ACTIVITY_ID>101</ACTIVITY_ID>
+		<NAME>помощник нотариуса</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>827</ID>
+		<ACTIVITY_ID>101</ACTIVITY_ID>
+		<NAME>юрист начального уровня</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>828</ID>
+		<ACTIVITY_ID>101</ACTIVITY_ID>
+		<NAME>другая должность</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>829</ID>
+		<ACTIVITY_ID>102</ACTIVITY_ID>
+		<NAME>администратор зала</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>830</ID>
+		<ACTIVITY_ID>102</ACTIVITY_ID>
+		<NAME>зав.производством</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>831</ID>
+		<ACTIVITY_ID>102</ACTIVITY_ID>
+		<NAME>повар</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>832</ID>
+		<ACTIVITY_ID>102</ACTIVITY_ID>
+		<NAME>официант</NAME>
+	</RECORD>
+	<RECORD>
+		<ID>833</ID>
+		<ACTIVITY_ID>102</ACTIVITY_ID>
+		<NAME></NAME>
+	</RECORD>
+</ROOT>
