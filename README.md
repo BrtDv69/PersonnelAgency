@@ -1,2 +1,3 @@
 # PersonnelAgency
-Program for personnel agency automatization
+Program for recruitment agency automatization
+Автоматизирует работу кадрового агенства. Имеет интеграцию с сайтом.
